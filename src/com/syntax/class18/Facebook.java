@@ -12,4 +12,14 @@ public class Facebook {
             System.out.println("Not allowed its not a Horse");
         }
     }
+
+    int getAge(String userPassword) {
+        //protecting the age with a password
+        if (userPassword.equals(password)) {
+            return age;
+        } else {
+            return -1;
+        }
+    }
+
 }

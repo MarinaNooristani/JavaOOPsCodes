@@ -7,7 +7,8 @@ public class Panda {
     double height = 2.2;
     int age = 12;
     double weight = 35.0;
-    Panda(){
+
+    Panda() {
 
     }
 
@@ -38,5 +39,6 @@ public class Panda {
     void printInfo() {
         System.out.println(name + " " + breed + " " + color + " " + height + " " + age + " " + weight);
     }
+
 
 }

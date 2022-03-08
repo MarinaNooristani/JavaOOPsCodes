@@ -6,5 +6,6 @@ public class PandaTester {
         panda.printInfo();
         Panda panda1 = new Panda("Manny's panda", "Black panda");
         panda1.printInfo();
+        new Panda();
     }
 }
