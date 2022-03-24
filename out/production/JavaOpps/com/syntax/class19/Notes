@@ -10,10 +10,10 @@ levels from most restricted to less restricted are
 4)public (keyword is also public)
 Rules:
 1)we should always prefer private access modifier for the fields. Because fields contain the data
-and the methods of your class might use that data to perform some tasks if we don't perform
+and the methods of your class might use that data to perform some tasks if we don't perform sanity
 checks before setting the values to these fields our classes and methods might
 misbehave also the access of the data should be restricted so that not every one can access
-the data.
+the data. Ex: facebook class
 2) we can't use access modifiers with local variables.
 =========================================================
 Constructors:
