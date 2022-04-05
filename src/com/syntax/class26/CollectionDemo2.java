@@ -20,5 +20,8 @@ public class CollectionDemo2 {
         System.out.println(countries.size());
         countries.remove("Pakistan");
         System.out.println(countries);
+        countries.clear();
+        System.out.println(countries);
+        System.out.println(countries.size());
     }
 }

@@ -1,0 +1,9 @@
+generics
+  ArrayList<Double> numberList = new ArrayList<>();
+this arraylist class will readjust itself at run time to handle Double data
+
+remember boxing and unboxing
+try to give real life examples in interview
+Arraylist and linkedlist maintain insertion order--> usa,turkey,afg
+linked list example->tennis ranking, premier league ranking
+Array list real life example->

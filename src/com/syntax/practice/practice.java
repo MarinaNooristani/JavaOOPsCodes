@@ -1,22 +1,14 @@
 package com.syntax.practice;
 
-import java.util.Scanner;
+ //public interface Herbivore {
 
-public class practice {
+// int amount = 10;
+ //public static void eatGrass(); Static methods in interfaces should have a body
 
+ /*public int chew() {
+         return 13;
 
-    }
+        } Interface abstract methods cannot have body
 
-class Parent{
-    int number;
-    Parent(){
-        System.out.println("Parent Constructor without argument");
-    }
-    Parent(int number){
-        this.number=number;
-        System.out.println(this.number);
-    }
-}
-class Child extends Parent{
-
-}
+  */
+ //}

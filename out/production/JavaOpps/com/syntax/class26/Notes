@@ -9,7 +9,7 @@ Interfaces:
     Interfaces are the contracts that we create with the help of interface keyword.
 How to decide which one to use:
 1) Prefer the interfaces over abstract classes.
-2) if tow or more classes are closely related to each other go with
+2) if two or more classes are closely related to each other go with
 abstract classes for example if we have to create a Lion class and a horse class
 we should go with abstract classes and should create an animal abstract class.
 if two classes are not related to each to other for example an Apple and a Cloth
