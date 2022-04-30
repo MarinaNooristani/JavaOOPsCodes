@@ -1,0 +1,9 @@
+if a file is open we can not delete that file
+and in java as well if we are reading a file and didn't close that file we cannot delete that file
+checked and unchecked exceptions
+checked exceptions:they are special type of exceptions that you cannot handle them without try catch
+you can not handle them with if elseif condition you must have a try catch block
+they are more dangerous they are exceptions which are beyond the control of a programmer
+unchecked exceptions: are light weight you can ignore them they can be handled by if else if conditions
+Exceptions in java:
+    Exception in java is an unwanted behaviour that disrupts the normal flow of execution.
